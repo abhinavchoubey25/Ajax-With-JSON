@@ -1,0 +1,19 @@
+div#output, 
+div#customers-output {
+  margin: 18px 0 0;
+  width: 20%;
+}
+div#output ul {
+  background:green;
+  padding: 10px;
+}
+div#customers-output ul {
+  background: pink;
+  padding: 10px;
+}
+ul li {
+  list-style: none;
+  color: #000;
+  font-size: 18px;
+  margin: 0 0 7px;
+}
